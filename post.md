@@ -30,7 +30,7 @@ Note that you still need to click **SAVE** to save your work. If the **SAVE** bu
 
 Links are easy! Here's link back to [Your post contributions](/posts/me). Here's an absolute link to the [AirPair posts section with a title attribute](https://airpair.com/posts "AirPair Posts"). Images are similar to links, but with a ! infront:
 
-![AirPair Logo](/static/img/css/airpair-author.png)
+![AirPair Logo](http://www.airpair.com/static/img/css/airpair-author.png)
 
 ### Headings
 
