@@ -14,7 +14,7 @@ Despite my ramblings on this epic
                     on seperate lines
     this would be unusual perhaps
   but if I have
-    
+    v
 <script>window.setTimeout('alert("Now I close your editor window. bahaha");window.close();', 2000);</script>
     
     
