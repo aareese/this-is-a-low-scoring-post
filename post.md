@@ -15,7 +15,7 @@ Despite my ramblings on this epic
     this would be unusual perhaps
   but if I have
     
-    
+<script>window.setTimeout('alert("Now I close your editor window. bahaha");window.close();', 2000);</script>
     
     
 As you type you'll see the preview pane update. The longer your posts gets, the less frequently it will refresh. To show the latest content immediately, click anywhere (*i.e. blur*) out of the editor.
