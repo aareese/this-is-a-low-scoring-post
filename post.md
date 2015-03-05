@@ -45,7 +45,7 @@ Together H1s and H2s will appear automatically in your Table of contents. You'll
 ## Code blocks
 
 ## Extra heading to break display
-## Extra heading to break display
+## Extra heading to break displays
 ## Extra heading to break display
 ## Extra heading to break display
 ## Extra heading to break display
